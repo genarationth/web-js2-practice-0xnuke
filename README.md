@@ -26,9 +26,8 @@ Work in pairs to complete the following table:
 | “”                    |    0     |    ""    |   false   |
 | “20”                  |    20    |   "20"   |   true    |
 | “Twenty”              |   NaN    | "Twenty" |   true    |
-| null                  |    0     |   error  |   false   |
-| undefinited           |   NaN    |   error  |   false   |
-
+| null                  |    0     |  "null"  |   false   |
+| undefinited           |   NaN    |"undefined"|   false  |
 
 ## Part 2:  New contender
 
